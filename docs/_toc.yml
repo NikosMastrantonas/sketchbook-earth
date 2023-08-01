@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 parts:
- - caption: The main story
+ - caption:
    chapters:
    - file: 01_greenhouse_gases
      title: "Chapter 1: Greenhouse Gases - The prime suspect"
@@ -14,9 +14,7 @@ parts:
      title: "Chapter 3: Journey to the Frozen Sea"
    - file: 04_sea_level.ipynb
      title: "Chapter 4: Rising seas"
-# - caption: Side notes
-#   chapters:
-#   - file: 05_sea_ice.ipynb
-#     title: Ta panta rhei... (everything flows)
-#   - file: 06_greenhouse_gases
-#     title: Connecting the dots
+   - file: 05_animations.ipynb
+     title: "Chapter 5: Ta panta rhei... (everything flows)"
+    #   - file: 06_greenhouse_gases
+    #     title: Connecting the dots

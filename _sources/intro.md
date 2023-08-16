@@ -1,8 +1,8 @@
 # Sketchbook Earth: Illustrated Climate Chronicles
 ![Project logo](logo_full.png "Sketchbook Earth logo")
 
-Sketchbook Earth is a project aiming to democratize the production of [Climate Intelligence Reports](https://climate.copernicus.eu/climate-intelligence), 
-traditionally restricted due to the reliance on internal ECMWF tools. 
+Sketchbook Earth is a project aiming to illustrate the production of [Climate Intelligence Reports](https://climate.copernicus.eu/climate-intelligence), 
+traditionally done with the ECMWF's in-house developed tools.
 In this project we developed a series of Jupyter notebooks that will illustrate our planet's climate stories in an accessible and engaging manner.
 
 Leveraging open-access software and specialized libraries, these notebooks will retrieve and process data from the Copernicus climate data store (CDS), 
